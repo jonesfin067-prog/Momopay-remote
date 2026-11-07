@@ -1,7 +1,7 @@
 {
-  "name": "ecopay-remote",
+  "name": "momopay-remote",
   "version": "1.0.0",
-  "description": "EcoCash payment link generator and receipt",
+  "description": "Momopay Remote payment link generator and receipt",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
